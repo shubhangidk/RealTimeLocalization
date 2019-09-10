@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RealTimeLocalization</string>
+    <string name="Back">"الى الخلف "</string>
+    <string name="ChangeLanguage">غير اللغة</string>
+    <string name="Name">اسم</string>
+    <string name="Password">كلمه السر</string>
+    <string name="Submit">خضع</string>
+</resources>

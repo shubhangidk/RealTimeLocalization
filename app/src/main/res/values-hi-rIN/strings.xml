@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RealTimeLocalization</string>
+    <string name="Back">वापस</string>
+    <string name="ChangeLanguage">" भाषा बदलो"</string>
+</resources>
